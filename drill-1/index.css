@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+#top{
+    background-color: #444444;
+    height: 200px;
+}
+
+.side{
+    background-color: #D8D8D8;
+    height: 800px;
+    width: 16%;
+    margin: 0;
+    float: left;
+}
+
+#footer{
+    background-color: #000000;
+    height: 150px;
+    margin-top: 650px;
+    width: 68%;
+    float: left;
+}
